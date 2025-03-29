@@ -40,4 +40,4 @@ I am a passionate **Data Scientist** with experience in **Machine Learning, Deep
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/easyforitall)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/saideepthi474)
 
-✨ **Let's build something amazing with data!** 🚀
+✨ **Constantly learning, innovating, and pushing the boundaries of data science!** 💡📊
