@@ -11,7 +11,7 @@ I am a passionate **Data Scientist** with experience in **Machine Learning, Deep
 ### 🔧 Technologies & Tools:
 
 - **Programming Languages:** Python, SQL
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Machine Learning & AI:** Scikit-learn, NLP, TensorFlow, Keras
 - **Data Processing & Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Databases:** MySQL, MongoDB
